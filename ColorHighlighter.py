@@ -8,7 +8,7 @@ import string
 import sublime
 import sublime_plugin
 
-# TODO: import ColorHighlighter.colors for ST3
+import ColorHighlighter.colors
 from colors import names_to_hex
 
 version = "3.0"
