@@ -1,18 +1,12 @@
-[
-    {
-        "id": "tools",
-        "children":
-        [
+[  
+    {  
+        "id": "tools",  
+        "children":  
+        [  
             {
                 "caption": "Color Highlighter",
                 "children":
                 [
-                    {
-                        "caption": "Color Highlighter",
-                        "command": "color_highlighter",
-                        "mnemonic": "C",
-                        "checkbox": true
-                    },
                     {
                         "caption": "Restore color scheme",
                         "command": "restore_color_scheme",
@@ -37,6 +31,6 @@
                     }
                 ]
             }
-        ]
-    }
+        ]  
+    }    
 ]
